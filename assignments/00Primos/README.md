@@ -46,6 +46,5 @@ True
 No la vamos a necesitar para este programa, pero es una buena práctica
 incluirla y quedará más claro para que sirve en los siguientes ejercicios.
 
-Una vez que termines tu actividad y la hayas probado con
-`python -m pytest --tb=short -v`,
+Una vez que termines tu actividad y la hayas probado localmente,
 subela a tu repositorio en GitHub, con el proceso de commit + push.
