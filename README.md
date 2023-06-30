@@ -7,5 +7,5 @@
 Para regresar al Home del repositorio, use:
 
 ```
-cd /workspaces/expract2
+cd /workspaces/exPract2
 ```
